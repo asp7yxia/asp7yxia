@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asp7yxia
 - 👀 I’m interested in Linux and coding
 - 🌱 I’m currently learning DSA and Java
-- 💞️ I’m looking to collaborate on ¯\_(ツ)_/¯
+- 💞️ I’m looking to collaborate on ¯\\_(ツ)_/¯
 - 📫 How to reach me: Please don't
 - 😄 Pronouns: <-- Fcuk this :))
 - ⚡ Fun fact: ...
