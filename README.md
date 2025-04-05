@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning DSA and Java
 - 💞️ I’m looking to collaborate on ¯\\_(ツ)_/¯
 - 📫 How to reach me: Please don't
-- 😄 Pronouns: <-- Fcuk this :))
 - ⚡ Fun fact: ...
 
 <!---
